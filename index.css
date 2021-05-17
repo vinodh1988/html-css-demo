@@ -1,0 +1,18 @@
+p{
+    margin-top:70px;
+    font-family: Agency FB;
+    font-size: 24px;
+    padding: 20px;
+}
+#list li:nth-child(2n){
+    background-color: aquamarine;
+}
+
+#list li{
+    list-style-type: disc;
+    font-family: comic sans MS;
+}
+
+li:nth-child(2n){
+    color: red;
+}
