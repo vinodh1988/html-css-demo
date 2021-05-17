@@ -1,0 +1,56 @@
+ <h3> Form Data</h3>
+
+      <form action="x.jsp">
+           <table>
+               <tr>
+                   <th>Sno</th>
+                   <td><input type="number" name="sno" required></td>
+               </tr>
+               <tr>
+                <th>Name</th>
+                <td><input type="text" name="name" required></td>
+               </tr>
+               <tr>
+                <th>City    </th>
+                <td><input type="text" name="text" required></td>
+               </tr>
+               <tr>
+                <th>Favorite Color</th>
+                <td><input type="color" name="favcolor" required></td>
+               </tr>
+                <tr>
+                <th>Email</th>
+                <td><input type="email" name="email" required></td>
+               </tr>
+               <tr>
+                <th>Gender</th>
+                <td><input type="radio" name="gender"> Male <input type="radio" name="gender"> Female <input type="radio" name="gender"> Third Gender</td>
+               </tr>
+               
+               <tr>
+                <th>Skills</th>
+                <td><input type="checkbox" name="gender"> Java
+                     <input type="checkbox" name="gender"> CSS 
+                     <input type="checkbox" name="gender"> HTML</td>
+               </tr>
+               <tr>
+                   <th>Job</th>
+                   <td>
+                       <select name="job">
+                           <option>Private Employee</option>
+                           <option>Public Servant</option>
+                           <option>Self Employed</option>
+                       </select>
+                   </td>
+               </tr>
+               <tr>
+                <th>About Yourself</th>
+                <td><textarea rows="10" cols=50 name="abty"></textarea></td>
+               </tr> 
+              <tr>
+                  <td colspan="2"><input type="submit" value="post data"></td>
+              </tr>
+           </table>
+
+      </form>
+  

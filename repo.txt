@@ -1,0 +1,72 @@
+   <h1 style="border:1px solid black">First</h1>
+         <h2>First</h2>
+         <h3>First</h3>
+         <h4>First</h4>
+         <h5>First</h5>
+         <h6>First</h6>
+
+         <b  style= "border:1px solid black; margin: 20px; padding: 20px;">First</b>
+         <b>First</b>
+         <b>First</b>
+         <b>First</b>
+         <b>First</b>
+         <b>First</b>
+      
+        
+         <div>
+             <ol>
+                 <li>Apple</li>
+                 <li>Banana</li>
+                 <li>Carrot</li>
+                 <li>Orange</li>
+                 <li>Potato</li>
+                 <li>Beans</li>
+             </ol>
+         </div>
+         <!--
+             In HTML Elements are categorized into block elements and Inline elements
+
+         -->
+            <p style="border:1px solid black; margin: 20px; padding: 20px;"> 
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+                     This is my first paragraph.
+            </p>
+
+            <p style="border:1px solid black;margin: 20px; padding: 20px;" >
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+                This is my first paragraph.
+       </p>
