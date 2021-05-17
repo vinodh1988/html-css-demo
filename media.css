@@ -1,0 +1,51 @@
+#content{
+    overflow:hidden;
+}
+@media only screen and (min-width:800px){
+    #left{
+        width:50%;
+        height: 500px;
+        padding:30px;
+        border: 2px solid black;
+        box-sizing: border-box;
+        background-color: yellowgreen;
+        float: left;
+    }
+
+    #right{
+        width:50%;
+        height: 500px;
+        padding:30px;
+        border: 2px solid black;
+        box-sizing: border-box;
+        background-color: rgb(52, 114, 231);
+        float: left;
+    }
+
+} 
+
+@media only screen and (max-width:800px){
+
+    #left{
+        width: 98%;
+        height: 500px;
+        padding:30px;
+        border: 2px solid black;
+        margin: 20px;
+        box-sizing: border-box;
+        background-color: yellowgreen;
+        
+    }
+
+    #right{
+        width: 98%;
+        height: 500px;
+        padding:30px;
+        border: 2px solid black;
+        margin: 20px;
+        box-sizing: border-box;
+        background-color: rgb(52, 114, 231);
+    
+    }
+
+}
