@@ -1,0 +1,42 @@
+table{
+    width: 800px;
+    background-color: darkseagreen;
+    margin: 100px;
+    box-shadow: 5px 5px 10px darkseagreen;
+    padding: 20px;
+    margin-top: 5px;
+    margin-left: 200px;
+}
+
+th{
+    width:  200px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(88, 80, 80);
+}
+
+th,td{
+    padding: 5px;
+}
+
+input[type="text"],input[type="number"],input[type="email"],select{
+    height: 30px;
+    width: 200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input[type="submit"]
+{
+    border: none;
+    background-color: rgb(83, 76, 76);
+    color: white;
+    height: 30px;
+}
+
+
+input[type="submit"]:hover
+{
+    border: none;
+    background-color: black;
+    color: white;
+}
